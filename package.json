@@ -1,5 +1,5 @@
 {
-  "homepage": "https://gayatripatil3/.github.io/temphosting",
+  "homepage": "https://gayatripatil3/.github.io/temphosting_f",
   "name": "temphosting",
   "version": "1.0.0",
   "description": "",
@@ -17,7 +17,9 @@
   "license": "ISC",
   "dependencies": {
     "concurrently": "^8.2.2",
-    "cors": "^2.8.5",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
     "gh-pages": "^6.1.1"
   }
 }
